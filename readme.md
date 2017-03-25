@@ -179,7 +179,7 @@
 
 ## Responsive Design
 
- - [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/)
+ - [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid)
 
 
 
