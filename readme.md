@@ -214,7 +214,7 @@
 
 ## Image backgrounds
 
- - [multiple.js](https://github.com/NeXTs/Multiple.js/)
+ - [multiple.js](https://github.com/NeXTs/Multiple.js)
 
 
 ## Clipboard
